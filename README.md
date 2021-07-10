@@ -6,8 +6,8 @@
 
 ## Links
 
-Website: https://asa-grace.github.io/Horiseon/
-GitHub repository: https://github.com/asa-grace/Horiseon
+* Website: https://asa-grace.github.io/Horiseon/
+* GitHub repository: https://github.com/asa-grace/Horiseon
 
 ## Image:
 ![Web capture_1-5-2021_161730_](https://user-images.githubusercontent.com/82672759/116796315-be562680-aa98-11eb-8fe1-2e9fc2b412a2.jpeg)
