@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +32,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -77,7 +77,7 @@ p {
     margin-left: 20px;
 }
 
-.content div {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -87,16 +87,16 @@ p {
     font-size:xx-large;
 }
 
-.content img {
+.content article img {
     max-height: 200px;
 }
 
-.content h2 {
+.content article h2 {
     margin-bottom: 20px;
     font-size: 50px;
 }
 
-.content p {
+.content article p {
     font-size: large;
     margin: 50px;
 }
@@ -114,7 +114,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefits {
+.benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
